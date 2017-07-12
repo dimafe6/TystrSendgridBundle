@@ -13,7 +13,7 @@
     ],
     "require": {
         "sendgrid/sendgrid": "*",
-        "symfony/framework-bundle": "^3.*",
+        "symfony/framework-bundle": "^3.1",
         "phpoption/phpoption": "~1.4"
     },
     "require-dev": {
