@@ -19,7 +19,7 @@
     "require-dev": {
         "phpunit/phpunit": "*",
         "symfony/finder": "^2.2",
-        "symfony/browser-kit": "^.2",
+        "symfony/browser-kit": "^2.2",
         "symfony/monolog-bundle": "^2.2"
     },
     "autoload": {
