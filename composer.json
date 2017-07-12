@@ -1,5 +1,5 @@
 {
-    "name": "tystr/sendgrid-bundle",
+    "name": "dimafe6/sendgrid-bundle",
     "type": "symfony-bundle",
     "description": "A bundle for integrating the sendgrid php library into the Symfony2 framework",
     "keywords": ["sendgrid", "email"],
